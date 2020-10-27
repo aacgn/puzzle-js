@@ -286,10 +286,10 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
-"@puzzle-js/client-lib@^1.2.3":
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/@puzzle-js/client-lib/-/client-lib-1.2.3.tgz#d99037a16d24b912912a848db997577c4906914e"
-  integrity sha512-vq/JeBEcArW1UABUrCC10NnTdpbjQQhsdVGZNU9fQBkeq//pvmXXMGvjLqTwwkqxWfGcStE1i3gr0h40YZtaSQ==
+"@puzzle-js/client-lib@^1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@puzzle-js/client-lib/-/client-lib-1.3.0.tgz#867bbd917a4857822631fd3dfea63843fa08aa5d"
+  integrity sha512-avnAn9DvLFtf1Em9U/afm99Eq47NZSY06Bt4hK9vcq5a2+KE8v4Hr0D9zpaD/ZNrqf7XKn4Sbb2aNHgPkEdZ4g==
 
 "@sinonjs/commons@^1", "@sinonjs/commons@^1.3.0", "@sinonjs/commons@^1.4.0", "@sinonjs/commons@^1.7.0":
   version "1.7.0"
@@ -388,10 +388,10 @@
   resolved "https://registry.yarnpkg.com/@types/clean-css/-/clean-css-3.4.31.tgz#9d4f2fbb5ca145b94dc9531705bbcaf732a36598"
   integrity sha512-Juy+EN6P12XW2XqtctXAz2yZtniOemS1w4WiWzgF2/6VntBgSC55DznaO4fWy74r1hdv7VN1S8MOEnJe/nSWhQ==
 
-"@types/compression@^0.0.36":
-  version "0.0.36"
-  resolved "https://registry.yarnpkg.com/@types/compression/-/compression-0.0.36.tgz#7646602ffbfc43ea48a8bf0b2f1d5e5f9d75c0d0"
-  integrity sha512-B66iZCIcD2eB2F8e8YDIVtCUKgfiseOR5YOIbmMN2tM57Wu55j1xSdxdSw78aVzsPmbZ6G+hINc+1xe1tt4NBg==
+"@types/compression@^1.7.0":
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/@types/compression/-/compression-1.7.0.tgz#8dc2a56604873cf0dd4e746d9ae4d31ae77b2390"
+  integrity sha512-3LzWUM+3k3XdWOUk/RO+uSjv7YWOatYq2QADJntK1pjkk4DfVP0KrIEPDnXRJxAAGKe0VpIPRmlINLDuCedZWw==
   dependencies:
     "@types/express" "*"
 
